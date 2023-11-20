@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VSm5EwfkkDTikaukuLvx4X9UDSPSUf1jssxzZvvXJtd7J1UpgxXT5KcOyjdtDSBS3hIt4T8vDWeFdsa9bp6tVQ==",
+  "success": true,
+  "projectFilePath": "/Users/mrstruijk/Current StereoKit Projects/SK_Helpers/SK_Helpers.csproj",
+  "expectedPackageFiles": [
+    "/Users/mrstruijk/.nuget/packages/stereokit/0.3.8/stereokit.0.3.8.nupkg.sha512",
+    "/Users/mrstruijk/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
